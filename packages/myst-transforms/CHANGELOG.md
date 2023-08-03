@@ -1,5 +1,12 @@
 # myst-transforms
 
+## 1.0.7
+
+### Patch Changes
+
+- fee1eea: Translate mermaid and math code blocks by default.
+- 2960da05: Transform code blocks with `math` language to be math blocks. This is GitHub markdown.
+
 ## 1.0.6
 
 ### Patch Changes

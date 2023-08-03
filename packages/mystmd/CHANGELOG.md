@@ -1,5 +1,12 @@
 # mystmd
 
+## 1.1.10
+
+### Patch Changes
+
+- fee1eea: Translate mermaid and math code blocks by default.
+- 2960da05: Transform code blocks with `math` language to be math blocks. This is GitHub markdown.
+
 ## 1.1.9
 
 ### Patch Changes
